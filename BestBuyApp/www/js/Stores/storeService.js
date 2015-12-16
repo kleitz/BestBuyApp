@@ -6,7 +6,7 @@ angular.module('starter.storeService', [])
 		getAllLocations: function (position) {
 
 			var url = 'http://api.bestbuy.com/v1/stores?format=json&apiKey=n3yt4tzd7r9gyruxdc6mtqpd';
-
+			
 			if (position) {
 				url = 'http://api.bestbuy.com/v1/stores(area(' + position.latitude + ',' + position.longitude + ',1000))?format=json&apiKey=n3yt4tzd7r9gyruxdc6mtqpd';
 			}

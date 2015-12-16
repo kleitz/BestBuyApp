@@ -11,7 +11,6 @@ angular.module('starter.storeController', [])
 			$location.path("/login");
 		} else {
 
-			$log.debug("getCurrentLocation");
 			$scope.getCurrentLocation();
 		}
 	}

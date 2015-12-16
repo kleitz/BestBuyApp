@@ -1,0 +1,13 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.1",
+    "ngCordova": "~0.1.23-alpha"
+  },
+  "dependencies": {
+    "ngGeolocation": "~0.0.8",
+    "angular-local-storage": "~0.2.3",
+    "ng-cordova-oauth": "~0.2.0"
+  }
+}

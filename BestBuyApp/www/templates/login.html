@@ -1,0 +1,24 @@
+<ion-view view-title="Login">
+	<ion-content>
+		<form name="loginForm" validate>
+			<div class="list">
+				<label class="item item-input">
+					<span class="input-label">Username</span>
+					<input ng-model="username" name="username" type="text">
+				</label>
+				<label class="item item-input">
+					<span class="input-label">Password</span>
+					<input ng-model="password" name="password" type="password">
+				</label>
+			</div>
+			<div class="padding">
+				<button type="button" ng-click="Login()" class="button button-block button-positive">Login</button>
+			</div>
+		</form>
+		<div class="padding" />
+		<button type="button" ng-click="LoginWithFacebook()" class="button button-block button-positive">Login with Facebook</button>
+		</div>
+
+	</ion-content>
+
+</ion-view>

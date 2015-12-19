@@ -1,0 +1,44 @@
+<ion-view cache-view="false" view-title="Stores">
+	<ion-content class="padding">
+		<!--		 <ion-nav-buttons side="left" >-->
+		<div class="bar bar-header item-input-inset">
+			<label class="item-input-wrapper textbox-search">
+				<i class="icon ion-ios-search-strong placeholder-icon"></i>
+				<input type="search" placeholder="Search for city" name="searchLocationText" ng-model="searchLocationText" />
+			</label>
+			<button class="button margin-right-15" ng-click="searchForLocation()">
+				<i class="icon ion-ios-search-strong "></i> Search
+			</button>
+		</div>
+		
+		<div class="list card" ng-repeat="location in locationList">
+			<div class="item">
+				<h2>{{location.longName}}</h2>
+				<p>{{location.address}}</p>
+				<p>{{location.phone}}</p>
+				<p>{{location.hours}}</p>
+			  </div>
+			
+<!--
+			<a class="item item-icon-left assertive" href="#">
+			<i class="icon ion-music-note"></i>
+			Start listening
+		  </a>
+			
+			<h2>{{location.longName}}</h2>
+				<h2>{{location.address}}</h2>
+				<h2>{{location.phone}}</h2>
+				<h2>{{location.hours}}</h2>
+-->
+		</div>
+<!--
+		<ion-list>
+			<ion-item ng-repeat="location in locationList" class="item ">
+				<h2>{{location.longName}}</h2>
+				<h2>{{location.address}}</h2>
+				<h2>{{location.phone}}</h2>
+				<h2>{{location.hours}}</h2>
+			</ion-item>
+		</ion-list>
+-->
+</ion-view>

@@ -1,0 +1,31 @@
+2015-12-14 14:42:51.807 BestBuyApp[1297:61217] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/0A12CFE9-1446-488C-A39A-288F3933ADDB/data/Containers/Data/Application/153F7158-1C04-4A00-B5F0-3C3362C7A84B/Library/Cookies/com.ionicframework.bestbuyapp975171.binarycookies
+2015-12-14 14:42:52.058 BestBuyApp[1297:61217] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-14 14:42:52.059 BestBuyApp[1297:61217] Multi-tasking -> Device: YES, App: YES
+2015-12-14 14:42:52.075 BestBuyApp[1297:61217] Unlimited access to network resources
+2015-12-14 14:42:52.792 BestBuyApp[1297:61217] [CDVTimer][splashscreen] 397.825003ms
+2015-12-14 14:42:52.801 BestBuyApp[1297:61217] [CDVTimer][statusbar] 9.105980ms
+2015-12-14 14:42:52.802 BestBuyApp[1297:61217] [CDVTimer][keyboard] 0.436008ms
+2015-12-14 14:42:52.802 BestBuyApp[1297:61217] [CDVTimer][TotalPluginStartup] 408.077002ms
+2015-12-14 14:42:52.872 BestBuyApp[1297:61217] Resetting plugins due to page load.
+2015-12-14 14:42:53.160 BestBuyApp[1297:61217] Finished load of: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/0A12CFE9-1446-488C-A39A-288F3933ADDB/data/Containers/Bundle/Application/D3E2E87B-0C69-4445-92EE-1C3E1F455DA9/BestBuyApp.app/www/index.html
+2015-12-14 14:47:22.307 BestBuyApp[1547:65026] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/0A12CFE9-1446-488C-A39A-288F3933ADDB/data/Containers/Data/Application/7A703FE6-ED23-4FDA-A600-240CCFD415A6/Library/Cookies/com.ionicframework.bestbuyapp975171.binarycookies
+2015-12-14 14:47:22.348 BestBuyApp[1547:65026] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-14 14:47:22.349 BestBuyApp[1547:65026] Multi-tasking -> Device: YES, App: YES
+2015-12-14 14:47:22.350 BestBuyApp[1547:65026] Unlimited access to network resources
+2015-12-14 14:47:22.418 BestBuyApp[1547:65026] [CDVTimer][splashscreen] 44.930995ms
+2015-12-14 14:47:22.426 BestBuyApp[1547:65026] [CDVTimer][statusbar] 7.752001ms
+2015-12-14 14:47:22.427 BestBuyApp[1547:65026] [CDVTimer][keyboard] 0.176013ms
+2015-12-14 14:47:22.427 BestBuyApp[1547:65026] [CDVTimer][TotalPluginStartup] 53.440034ms
+2015-12-14 14:47:22.459 BestBuyApp[1547:65026] Resetting plugins due to page load.
+2015-12-14 14:47:22.574 BestBuyApp[1547:65026] Finished load of: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/0A12CFE9-1446-488C-A39A-288F3933ADDB/data/Containers/Bundle/Application/3FA8B2B4-81FE-4BD6-A8D0-CE1E297A5B39/BestBuyApp.app/www/index.html
+2015-12-14 14:56:55.781 BestBuyApp[1547:73229] XPC connection interrupted
+2015-12-14 14:56:55.781 BestBuyApp[1547:73233] Terminating since there is no system app.
+2015-12-14 15:04:27.798 BestBuyApp[1959:79678] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-14 15:04:27.799 BestBuyApp[1959:79678] Multi-tasking -> Device: YES, App: YES
+2015-12-14 15:04:27.800 BestBuyApp[1959:79678] Unlimited access to network resources
+2015-12-14 15:04:27.861 BestBuyApp[1959:79678] [CDVTimer][splashscreen] 37.863970ms
+2015-12-14 15:04:27.869 BestBuyApp[1959:79678] [CDVTimer][statusbar] 7.618964ms
+2015-12-14 15:04:27.869 BestBuyApp[1959:79678] [CDVTimer][keyboard] 0.164986ms
+2015-12-14 15:04:27.869 BestBuyApp[1959:79678] [CDVTimer][TotalPluginStartup] 46.162009ms
+2015-12-14 15:04:27.920 BestBuyApp[1959:79678] Resetting plugins due to page load.
+2015-12-14 15:04:28.030 BestBuyApp[1959:79678] Finished load of: file:///Users/NiGi/Library/Developer/CoreSimulator/Devices/0A12CFE9-1446-488C-A39A-288F3933ADDB/data/Containers/Bundle/Application/C6B057E9-627E-4599-B43C-6BEE8EEC4ACA/BestBuyApp.app/www/index.html
